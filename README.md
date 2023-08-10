@@ -1,7 +1,7 @@
 # Bombas_de_agua_en_tanzania
 En este proyecto se realizo un modelo predictivo supervisado para determinar el estado de funcionamiento de bombas de agua en Tanzania.
 
-A continuación se describen las bariables que componen el dataset.
+A continuación se describen las variables que componen el dataset.
 
 amount_tsh = carga estática total (cantidad de agua disponible, para el punto de agua).  
 date_recorded = fecha en la que se incluyó el registro en los datos.  
